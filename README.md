@@ -1,5 +1,7 @@
 Jackson Wu
+
 Email: Jacksonw4881@hstat.org
+
 Schedule:
 1) Spanish
 2) English
