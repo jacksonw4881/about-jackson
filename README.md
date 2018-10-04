@@ -6,7 +6,7 @@ Schedule:
 1) Spanish
 2) English
 3) SEP
-4) APUSH (No fun)
+4) APUSH 
 5) Lunch
 6) Math
 7) AP chem
