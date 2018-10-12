@@ -1,5 +1,3 @@
-
----
 _Name:_ Jackson Wu  
 _Email:_ Jacksonw4881@hstat.org  
 _School:_ High School of Telecommunications Arts and Technology  
