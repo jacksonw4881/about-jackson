@@ -2,7 +2,7 @@
 
 _**Name:**_ Jackson Wu  
 _**Email:**_ Jacksonw4881@hstat.org  
-_**School:**_ High School of Telecommunications Arts and Technology  
+_**School:**_ High School of Telecommunication Arts and Technology  
 _**Bio:**_ My name is Jackson and I'm 16 years old. I was born on May 21, 2002  
 
 ---
@@ -14,8 +14,8 @@ _**Bio:**_ My name is Jackson and I'm 16 years old. I was born on May 21, 2002
 4. APUSH 
 5. Lunch
 6. Math
-7. AP Chem
-8. AP Chem Lab/Study Hall
+7. AP Chemistry
+8. AP Chemistry Lab/Study Hall
 9. Gym _(Only Wednesday and Thursday)_
 ---
 * [Link to my Github profile](https://github.com/jacksonw4881)
